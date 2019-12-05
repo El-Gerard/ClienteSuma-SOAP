@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://26.22.21.234:8080/nodosuma/wsSuma1?wsdl" uri="xml-resources/web-service-references/wsSuma1/wsdl/26.22.21.234_8080/nodosuma/wsSuma1.wsdl"/>
+    <system systemId="http://26.22.21.234:8080/nodosuma/wsSuma1?xsd=1" uri="xml-resources/web-service-references/wsSuma1/wsdl/26.22.21.234_8080/nodosuma/wsSuma1.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/nodosuma/wsSumaWil?wsdl" uri="xml-resources/web-service-references/wsSumaWil/wsdl/localhost_8080/nodosuma/wsSumaWil.wsdl"/>
+    <system systemId="http://localhost:8080/nodosuma/wsSumaWil?xsd=1" uri="xml-resources/web-service-references/wsSumaWil/wsdl/localhost_8080/nodosuma/wsSumaWil.xsd_1.xsd"/>
+</catalog>
